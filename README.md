@@ -3,7 +3,7 @@
 ### A passionate Full-Stack Developer and Software Engineer from Saudi Arabia 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalehAljohani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SalehAljohani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
