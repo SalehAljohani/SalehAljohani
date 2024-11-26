@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🌍 Based in Riyadh, Saudi Arabia.
-- 🎓 **Bachelor's in Information Systems** from Taibah University, 2019–2024.
+- 🎓 **Bachelor's in Information Systems**.
 - 💼 Currently working on **PCF components** and **CRM integrations** as a Software Engineer.
 - 🔥 Passionate about building scalable backend systems and dynamic front-end interfaces using the latest tech.
 - 🛠️ Always exploring **emerging technologies** and crafting innovative software solutions.
