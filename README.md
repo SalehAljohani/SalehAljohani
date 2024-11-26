@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in Riyadh, Saudi Arabia, with **over 10 years of programming experience**—both self-taught and professional.
+- 🌍 Based in Riyadh, Saudi Arabia.
 - 🎓 **Bachelor's in Information Systems** from Taibah University, 2019–2024.
 - 💼 Currently working on **PCF components** and **CRM integrations** as a Software Engineer.
 - 🔥 Passionate about building scalable backend systems and dynamic front-end interfaces using the latest tech.
