@@ -38,11 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalehAljohani&show_icons=true&theme=radical)
-
----
 
 ## 💬 Let's Connect!
 
@@ -51,6 +46,7 @@
 
 ---
 
-### 🌟 Quote to Code By
+### ✨ Crafting My Code Legacy
 
-*"Perfection is not attainable, but if we chase perfection, we can catch excellence."*
+*"In every line of code, I strive not just to solve problems but to craft solutions that inspire, innovate, and leave a lasting impact <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—because true mastery is the ability to create what others thought impossible."*
+
