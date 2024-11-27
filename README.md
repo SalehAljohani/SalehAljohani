@@ -1,4 +1,4 @@
-# Hey there, I'm Saleh Aljohani! 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome, I'm Saleh Aljohani! 
 
 ### A passionate Full-Stack Developer and Software Engineer from Saudi Arabia 🚀
 
@@ -33,7 +33,7 @@
 ## 🚧 Current Projects
 
 - **[PCF Lookup Buttons](https://github.com/SalehAljohani/PCF_LookUpButtons):** A component that transforms Dynamics 365 lookup fields into interactive buttons, improving workflows and UX.
-- **Triplet Committee Platform (TCP):** A graduation project leveraging ASP.NET Core and SQL Server for efficient committee management at Taibah University.
+- **[Triplet Committee Platform (TCP)](https://github.com/SalehAljohani/Triplet-Committee-Platform):** A graduation project leveraging ASP.NET Core and SQL Server for efficient committee management at Taibah University.
 - **More innovative solutions coming soon...**
 
 ---
