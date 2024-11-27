@@ -48,5 +48,5 @@
 
 ### ✨ Crafting My Code Legacy
 
-*"In every line of code, I strive not just to solve problems but to craft solutions that inspire, innovate, and leave a lasting impact <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—because true mastery is the ability to create what others thought impossible."*
+*"In every line of code, I strive to craft solutions that inspire and innovate—because true mastery lies in creating what others deemed impossible."*
 
