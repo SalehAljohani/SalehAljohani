@@ -32,7 +32,7 @@
 
 ## 🚧 Current Projects
 
-- **[PCF Lookup Buttons](https://github.com/SalehAljohani/PCF_LookUpButtons):** A component that transforms Dynamics 365 lookup fields into interactive buttons, improving workflows and UX.
+- **PCF Lookup Buttons:** A component that transforms Dynamics 365 lookup fields into interactive buttons, improving workflows and UX.
 - **[Triplet Committee Platform (TCP)](https://github.com/SalehAljohani/Triplet-Committee-Platform):** A graduation project leveraging ASP.NET Core and SQL Server for efficient committee management at Taibah University.
 - **More innovative solutions coming soon...**
 
