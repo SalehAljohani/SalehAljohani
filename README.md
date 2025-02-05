@@ -12,8 +12,8 @@
 
 - 🌍 Based in Riyadh, Saudi Arabia.
 - 🎓 **Bachelor's in Information Systems**.
-- 💼 Currently working on **PCF components** and **CRM integrations** as a Software Engineer.
-- 🔥 Passionate about building scalable backend systems and dynamic front-end interfaces using the latest tech.
+- 💼 Currently working on **Top-Secret Tech** as a Software Engineer.
+- 🔥 Passionate about building scalable systems.
 - 🛠️ Always exploring **emerging technologies** and crafting innovative software solutions.
 
 ---
